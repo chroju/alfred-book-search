@@ -27,6 +27,13 @@ Type `book [keyword]` in your Alfred to search books. Multiple actions can be pe
 | AMAZON_DOMAIN | yes | Open the book page from this amazon domain | amazon.co.jp |
 
 
+
+Contribution guide
+---
+
+This repository is for my personal use only, so does not accept any issues or pull requests. If you want to make some updates, fork this repository and edit it.
+
+
 Note
 ---
 
